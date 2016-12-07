@@ -4,7 +4,7 @@
 ---
 
 
-The code contained in this repository is a modification of code provided by Louisiana State University for the laptop ground station used in the Eclipse Ballooning Project. The main project page for more information can be found [here](http://eclipse.montana.edu/).
+The code contained in this repository is a modification of code provided by Louisiana State University for the ground station laptop used in the Eclipse Ballooning Project. The main project page for more information can be found [here](http://eclipse.montana.edu/).
 
 
 ---
